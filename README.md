@@ -1,4 +1,4 @@
-`Populate Countries, States & Cities in SQL`
+```Populate Countries, States & Cities in SQL```
 
 Here's a detailed description for creating migrations and seeders for the countries, states, and cities tables, along with an example JSON file structure for the seed data.
 
